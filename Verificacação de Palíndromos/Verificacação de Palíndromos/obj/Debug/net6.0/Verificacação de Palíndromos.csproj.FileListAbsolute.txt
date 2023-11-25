@@ -1,0 +1,14 @@
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\bin\Debug\net6.0\Verificacação de Palíndromos.exe
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\bin\Debug\net6.0\Verificacação de Palíndromos.deps.json
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\bin\Debug\net6.0\Verificacação de Palíndromos.runtimeconfig.json
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\bin\Debug\net6.0\Verificacação de Palíndromos.dll
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\bin\Debug\net6.0\Verificacação de Palíndromos.pdb
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.AssemblyInfoInputs.cache
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.AssemblyInfo.cs
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.csproj.CoreCompileInputs.cache
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.dll
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\refint\Verificacação de Palíndromos.dll
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.pdb
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\Verificacação de Palíndromos.genruntimeconfig.cache
+D:\CodeDotNet\Verificacação de Palíndromos\Verificacação de Palíndromos\obj\Debug\net6.0\ref\Verificacação de Palíndromos.dll
