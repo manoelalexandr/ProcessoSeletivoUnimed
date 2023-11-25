@@ -1,0 +1,14 @@
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\bin\Debug\net6.0\Busca em Lista Ordenada.exe
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\bin\Debug\net6.0\Busca em Lista Ordenada.deps.json
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\bin\Debug\net6.0\Busca em Lista Ordenada.runtimeconfig.json
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\bin\Debug\net6.0\Busca em Lista Ordenada.dll
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\bin\Debug\net6.0\Busca em Lista Ordenada.pdb
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.AssemblyInfoInputs.cache
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.AssemblyInfo.cs
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.csproj.CoreCompileInputs.cache
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.dll
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\refint\Busca em Lista Ordenada.dll
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.pdb
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\Busca em Lista Ordenada.genruntimeconfig.cache
+D:\CodeDotNet\Busca em Lista Ordenada\Busca em Lista Ordenada\obj\Debug\net6.0\ref\Busca em Lista Ordenada.dll
