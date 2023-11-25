@@ -1,0 +1,14 @@
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\bin\Debug\net6.0\Árvore binária simples.exe
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\bin\Debug\net6.0\Árvore binária simples.deps.json
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\bin\Debug\net6.0\Árvore binária simples.runtimeconfig.json
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\bin\Debug\net6.0\Árvore binária simples.dll
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\bin\Debug\net6.0\Árvore binária simples.pdb
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.AssemblyInfoInputs.cache
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.AssemblyInfo.cs
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.csproj.CoreCompileInputs.cache
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.dll
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\refint\Árvore binária simples.dll
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.pdb
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\Árvore binária simples.genruntimeconfig.cache
+D:\CodeDotNet\Árvore binária simples\Árvore binária simples\obj\Debug\net6.0\ref\Árvore binária simples.dll
