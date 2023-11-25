@@ -1,0 +1,7 @@
+SELECT (SELECT A.NomeAluno from ALUNOS A
+        where A.AlunoID = N.AlunoID) as Nome_aluno,
+        round(avg(N.Nota),2) as Media_notas
+    
+FROM Notas N
+
+group by N.AlunoID;

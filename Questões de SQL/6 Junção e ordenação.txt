@@ -1,0 +1,9 @@
+SELECT C.NomeCliente,
+       P.produtoid AS Numero_pedido,
+       P.datapedido AS Data_pedido 
+ FROM Pedidos P
+
+INNER JOIN clientes C
+ON C.ClienteID = p.ClienteID
+
+ORDER BY p.DataPedido DESC;

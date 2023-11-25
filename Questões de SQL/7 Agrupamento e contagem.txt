@@ -1,0 +1,8 @@
+SELECT C.NomeCategoria AS Categoria,
+   COUNT(P.ProdutoID) AS Quantidade_produtos 
+FROM Produtos P
+
+INNER JOIN Categorias C
+ON P.CategoriaID = C.CategoriaID
+
+GROUP BY C.NomeCategoria;

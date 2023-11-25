@@ -1,0 +1,14 @@
+SELECT C.NomeCliente,
+       P.PedidoID AS Numero_pedido,
+       COUNT(P.ProdutoID) AS Quantidade_itens,
+       LISTAGG(PR.NomeProduto,'/ ') AS itens
+FROM Pedidos P
+         
+ INNER JOIN Clientes C
+ON C.CLIENTEID = PED.CLIENTEID
+
+INNER JOIN Produtos PR
+ON PR.ProdutoID = P.ProdutoID
+
+GROUP BY C.NomeCliente,
+         P.PedidoID;

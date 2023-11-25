@@ -1,0 +1,5 @@
+SELECT F.Nomefuncionario,
+       F.cargo,
+       F.salario 
+FROM Funcionarios F
+WHERE F.Salario > 50000;
